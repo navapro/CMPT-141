@@ -1,0 +1,5 @@
+gamma, 14.0
+beta_normal, 0.2
+beta_intervention, 0.1
+simulation_days, 540
+N, 10000
